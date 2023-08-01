@@ -1,1 +1,1 @@
-# MathemeticalPrograms
+# MathematicalPrograms
